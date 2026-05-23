@@ -69,7 +69,4 @@ protobuf==3.20.*
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
 ## 📜 License
-
----
-
 This README gives your repo a professional look and makes it easy for others (and future you) to set up and run the app.  
